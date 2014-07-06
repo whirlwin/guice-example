@@ -2,4 +2,4 @@
 ---------------
 
 # Running the example
-1. Run the main method inside `org.whirlwin.guice_example.Main`.
+1. Simply run `mvn exec:java` to run the example.
